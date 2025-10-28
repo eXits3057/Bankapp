@@ -10,5 +10,5 @@ CREATE TABLE accounts (
   balance DOUBLE
 );
 
-จากนั้นให้เข้า โฟลเดอร์ dist แล้วกดเลือกไฟล์ Bankapp.jar ก็จะทำสามารถใช้งานได้
+จากนั้นให้เปิดโปรแกรม XAMPP แล้วกด Start apache กับ MySQL แล้วเข้าโฟลเดอร์ dist แล้วกดเลือกไฟล์ Bankapp.jar ก็จะทำสามารถใช้งานได้
 ไฟล์ Class JAVA ต่างๆจะอยู่ในโฟลเดอร์ src/bankapp/ จะมีไฟล์รวม ที่มีนามสกุล.java
